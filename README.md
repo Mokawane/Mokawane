@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering student
 ----------------------------
 
-I am aspired software engineering student, i am currently attending at Codespace academy and busy with Software Development programme, and i am already able develop my own website pages, website applications and use of APIs.
+I am aspired software engineering student, i am currently attending at Codespace academy and busy with Software Development programme, and i am already able to develop my own website pages, website applications and use of APIs.
 
-* **🌍** I'm based in Rustenburg, NW
-*  **✉️**  You can contact me at [jonas.mokawane98@gmail.com](mailto:jonas.mokawane98@gmail.com)
+* 🌍 I'm based in Rustenburg, NW
+* ✉️  You can contact me at [jonas.mokawane98@gmail.com](mailto:jonas.mokawane98@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on website development
 * ⚡  I am adventurous
